@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fetchexample/static/css/main.15a4a373.chunk.css",
-    "main.js": "/fetchexample/static/js/main.3cd5ede3.chunk.js",
-    "main.js.map": "/fetchexample/static/js/main.3cd5ede3.chunk.js.map",
-    "runtime~main.js": "/fetchexample/static/js/runtime~main.53747f20.js",
-    "runtime~main.js.map": "/fetchexample/static/js/runtime~main.53747f20.js.map",
-    "static/js/2.5d907561.chunk.js": "/fetchexample/static/js/2.5d907561.chunk.js",
-    "static/js/2.5d907561.chunk.js.map": "/fetchexample/static/js/2.5d907561.chunk.js.map",
-    "index.html": "/fetchexample/index.html",
-    "precache-manifest.0a08fe1948d55a501e66092d6e4e35fd.js": "/fetchexample/precache-manifest.0a08fe1948d55a501e66092d6e4e35fd.js",
-    "service-worker.js": "/fetchexample/service-worker.js",
-    "static/css/main.15a4a373.chunk.css.map": "/fetchexample/static/css/main.15a4a373.chunk.css.map"
+    "main.css": "/pokeapi-fetch-example/static/css/main.15a4a373.chunk.css",
+    "main.js": "/pokeapi-fetch-example/static/js/main.c614e794.chunk.js",
+    "main.js.map": "/pokeapi-fetch-example/static/js/main.c614e794.chunk.js.map",
+    "runtime~main.js": "/pokeapi-fetch-example/static/js/runtime~main.e73b16a1.js",
+    "runtime~main.js.map": "/pokeapi-fetch-example/static/js/runtime~main.e73b16a1.js.map",
+    "static/js/2.5d907561.chunk.js": "/pokeapi-fetch-example/static/js/2.5d907561.chunk.js",
+    "static/js/2.5d907561.chunk.js.map": "/pokeapi-fetch-example/static/js/2.5d907561.chunk.js.map",
+    "index.html": "/pokeapi-fetch-example/index.html",
+    "precache-manifest.c9c3768b4615145e7d1b75a32edb7849.js": "/pokeapi-fetch-example/precache-manifest.c9c3768b4615145e7d1b75a32edb7849.js",
+    "service-worker.js": "/pokeapi-fetch-example/service-worker.js",
+    "static/css/main.15a4a373.chunk.css.map": "/pokeapi-fetch-example/static/css/main.15a4a373.chunk.css.map"
   }
 }
